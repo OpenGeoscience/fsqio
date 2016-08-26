@@ -66,13 +66,20 @@ Data import
 Serving
 =======
 *   ./pants binary src/jvm/io/fsq/twofishes/server:server-bin
-*   ./src/jvm/io/fsq/twofishes/scripts/serve.py -p 8080 /output_dir – Where /output_dir is the data import folder used above and will contain a subdirectory whose name will be the date of the most recent import, for example `2013-02-25-01-08-23.803740`. 
+*   ./src/jvm/io/fsq/twofishes/scripts/serve.py -p 8080 /output_dir – Where /output_dir is the data import folder used above and will contain a subdirectory whose name will be the date of the most recent import, for example `2013-02-25-01-08-23.803740`.
     *   Alternatively: java -jar dist/server-bin.jar --hfile_basepath /output_dir
 *   server should be responding to finagle-thrift on the port specified (8080 by default), and responding to http requests at the next port up: <http://localhost:8081/?query=rego+park+ny> <http://localhost:8081/twofishes-static/geocoder.html#rego+park>
 *   use the --host flag to specify a bind address (defaults to 0.0.0.0)
-*   to enable hotfixes and allow refreshing, use the --hotfix\_basepath and --enable\_private\_endpoints params as detailed under [Hotfixes](#hotfixes) below 
+*   to enable hotfixes and allow refreshing, use the --hotfix\_basepath and --enable\_private\_endpoints params as detailed under [Hotfixes](#hotfixes) below
 
 NOTE: mongod is not required for serving, only index building.
+
+
+Docker
+=======
+*   docker build -t twofish .
+*   docker run --name twofish_instance -p 8080:8080 -p 8081:8081 -p 8082:8082 -i -t twofish
+
 
 Hotfixes
 ========
@@ -132,4 +139,3 @@ Many thanks for assistance:
 Unrelated
 =========
 These are the two fishes I grilled the night I started coding the original python implementation <https://twitter.com/#!/whizziwig/statuses/154431957630066688>
-
