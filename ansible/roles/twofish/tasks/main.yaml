@@ -64,5 +64,5 @@
   sudo: yes
 
 - name: start supervisor to run geocoder
-  service: name=supervisor state=started enabled=yes
+  service: name=supervisor state=restarted enabled=yes
   sudo: yes

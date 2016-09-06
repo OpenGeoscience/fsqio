@@ -1,3 +1,1 @@
-Stouts.mongodb
-geerlingguy.java
-azavea.scala
+malk.java8-oracle
