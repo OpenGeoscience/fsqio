@@ -102,7 +102,8 @@ object GeonamesParser extends DurationUtils {
       parser.loadIntoMongo()
       writeIndexes(parser.s2CoveringLatch)
     } else {
-      writeIndexes(None)
+      parser.loadPolygons()
+      writeIndexes(parser.s2CoveringLatch)
     }
 
 
@@ -241,6 +242,10 @@ class GeonamesParser(
 
   val wkbWriter = new WKBWriter()
   val wktReader = new WKTReader()
+
+  def loadPolygons() {
+    polygonLoader.load(GeonamesNamespace)
+  }
 
   def loadIntoMongo() {
     parseCountryInfo()

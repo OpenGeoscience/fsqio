@@ -1,1 +1,134 @@
-3039919	Pont de la Margineda	Pont de la Margineda	Pont de la Margineda	42.48365	1.49224	S	BDG	AD		07				0		1031	Europe/Andorra	2015-03-08
+2179002	Wiri	Wiri		-37	174.86667	S	RSTN	NZ		E7	076			0		21	Pacific/Auckland	2011-08-01
+2180954	Tophouse	Tophouse		-41.76667	172.9	S	RSRT	NZ		TAS	051			0		670	Pacific/Auckland	2011-08-01
+2184714	Pekatahi Station	Pekatahi Station		-38.05	176.98333	S	RSTN	NZ		E8	025			0		14	Pacific/Auckland	2011-08-01
+2186432	Mount Roskill	Mount Roskill	Dominion Road South	-36.91667	174.75	S	PO	NZ	NZ	E7	076			0		70	Pacific/Auckland	2011-08-01
+2186920	Melling Station	Melling Station	Melling	-41.2	174.9	S	RSTN	NZ	NZ	G2	046			0		137	Pacific/Auckland	2011-08-01
+2192397	Chateau Tongariro	Chateau Tongariro	The Chateau	-39.2	175.53333	S	RSRT	NZ	NZ	F3	036			0		1132	Pacific/Auckland	2011-08-01
+2207504	Boulder Bank Lighthouse	Boulder Bank Lighthouse		-41.25583	173.26333	S	LTHSE	NZ		F5	052			0		6	Pacific/Auckland	2011-08-01
+2207510	Nelson Airport	Nelson Airport	NSN,NZNS,Nelson Airport,ni er sen ji chang,尼爾森機場	-41.29661	173.22414	S	AIRP	NZ		F5	052			0		4	Pacific/Auckland	2014-04-19
+2207699	Ponsonby Wharf	Ponsonby Wharf		-36.84111	174.73139	S	WHRF	NZ		E7	076			0		17	Pacific/Auckland	2011-08-01
+2207702	Westhaven Boat Harbor	Westhaven Boat Harbor		-36.83806	174.74944	S	MAR	NZ		E7	076			0		2	Pacific/Auckland	2011-08-01
+2208089	Tauranga Airport	Tauranga Airport	NZTG,TRG	-37.67194	176.19611	S	AIRP	NZ		E8	023			0	3	6	Pacific/Auckland	2011-08-01
+2208165	Whangarei Airport	Whangarei Airport	NZWR,WRE	-35.76861	174.365	S	AIRP	NZ		F6	002			0		41	Pacific/Auckland	2011-08-01
+6202811	Te Ana-au Glow-Worm Caves	Te Ana-au Glow-Worm Caves		-45.28838	167.72005	S	CAVE	NZ		F8	073			0		360	Pacific/Auckland	2011-08-01
+6202892	Manapouri Aerodrome	Manapouri Aerodrome	NZMO,TEU,Te Anau Airport  Manapouri	-45.53227	167.64304	S	AIRP	NZ		F8	073			0		212	Pacific/Auckland	2013-06-22
+6205079	Invercargill Airport	Invercargill Airport	IVC,NZNV	-46.40842	168.30009	S	AIRP	NZ		F8	075			0		2	Pacific/Auckland	2011-08-01
+6206225	Queenstown Airport	Queenstown Airport	Aeroport international de Queenstown,Aéroport international de Queenstown,Bandar Udara Queenstown,Flughafen Queenstown,Kuinstaun,Lapangan Terbang Queenstown,NZQN,Port lotniczy Queenstown,San bay Queenstown,Sân bay Queenstown,ZQN,frwdgah kwyynztawn,huang hou zhen guo ji ji chang,kuinzutaun kong gang,kwinseutaun gonghang,Куинстаун,Фурудгоҳи куеҳинзтовн,فرودگاه کوئینزتاون,クイーンズタウン空港,皇后鎮國際機場,퀸스타운 공항	-45.01837	168.74007	S	AIRP	NZ		F7	070			0		357	Pacific/Auckland	2011-08-01
+6206801	Tararua	Tararua		-46.65842	168.8601	S	WRCK	NZ		F8	073			0		15	Pacific/Auckland	2011-08-01
+6208807	Cathedral Caves	Cathedral Caves		-46.59841	169.3801	S	CAVE	NZ		F7	072			0		148	Pacific/Auckland	2011-08-01
+6209524	Pukaki Airport	Pukaki Airport	Aeroport de Pukaki,Aéroport de Pukaki,NZUK,Pukaki Airport,TWZ	-44.24037	170.11883	S	AIRP	NZ		E9	065			0		470	Pacific/Auckland	2014-05-19
+6209530	Ohau B Power station	Ohau B Power station		-44.28834	170.11008	S	BLDG	NZ		F7				0		425	Pacific/Auckland	2006-03-04
+6209533	Ohau A Power station	Ohau A Power station		-44.25834	170.02008	S	BLDG	NZ		E9	065			0		500	Pacific/Auckland	2011-08-01
+6209573	Benmore Dam	Benmore Dam		-44.55835	170.19009	S	DAM	NZ		F7				0		412	Pacific/Auckland	2006-03-04
+6209609	Ohau C Power Station	Ohau C Power Station		-44.33835	170.18008	S	BLDG	NZ		F7				0		394	Pacific/Auckland	2006-03-04
+6209768	Maniototo	Maniototo		-45.11837	170.02009	S	FRMT	NZ		F7	069			0		420	Pacific/Auckland	2011-08-01
+6211631	Aviemore Dam	Aviemore Dam		-44.64835	170.34009	S	DAM	NZ		F7				0		271	Pacific/Auckland	2006-03-04
+6212232	Dunedin Airport	Dunedin Airport	DUD,NZDN	-45.92806	170.19833	S	AIRP	NZ		F7	071			0	1	0	Pacific/Auckland	2011-08-01
+6212564	Strongman Mine	Strongman Mine		-42.34828	171.27013	S	MN	NZ		G3	056			0		221	Pacific/Auckland	2011-08-01
+6213738	Mount Potts	Mount Potts		-43.55832	170.9301	S	FRMT	NZ		E9	063			0		548	Pacific/Auckland	2011-08-01
+6214278	Richard Pearse Airport	Richard Pearse Airport	NZTU,TIU	-44.29835	171.2201	S	AIRP	NZ		E9	064			0		29	Pacific/Auckland	2011-08-01
+6215073	Oamaru Airport	Oamaru Airport	NZOU,OAM	-44.95836	171.08009	S	AIRP	NZ		F7				0		30	Pacific/Auckland	2006-03-04
+6216015	Temple Basin Skifield	Temple Basin Skifield		-42.8983	171.57013	S	RSRT	NZ		E9				0		1401	Pacific/Auckland	2006-03-04
+6220393	Christchurch International Airport	Christchurch International Airport	Aeroport international de Christchurch,Aeroporto di Christchurch,Aeropuerto Internacional de Christchurch,Aéroport international de Christchurch,Bandar Udara Internasional Christchurch,CHC,Christchurch internasjonale lufthavn,Krajstcherch,Luchthaven van Christchurch,NZCH,Port lotniczy Christchurch,San bay quoc te Christchurch,Sân bay quốc tế Christchurch,ke lai si te che qi guo ji ji chang,keulaiseuteucheochi gugjegonghang,kuraisutochachi guo ji kong gang,tha xakasyan nanachati khi rstcheirch,Крайстчерч,فرودگاه بین‌المللی کرایست‌چرچ,ท่าอากาศยานนานาชาติไครสต์เชิร์ช,クライストチャーチ国際空港,克赖斯特彻奇国际机场,크라이스트처치 국제공항	-43.48936	172.53223	S	AIRP	NZ		E9	060			0	37	33	Pacific/Auckland	2011-08-01
+6220564	Addington Raceway	Addington Raceway		-43.53833	172.59013	S	RECR	NZ		E9	060			0		20	Pacific/Auckland	2011-08-01
+6220809	Wigram Aerodrome	Wigram Aerodrome	NZWG	-43.54833	172.54013	S	AIRQ	NZ		E9	060			0		26	Pacific/Auckland	2011-08-01
+6220955	Sign of the Kiwi	Sign of the Kiwi		-43.59833	172.63013	S	BLDG	NZ		E9	060			0		176	Pacific/Auckland	2011-08-01
+6220961	Sign of the Takahe	Sign of the Takahe		-43.57833	172.62013	S	BLDG	NZ		E9	060			0		23	Pacific/Auckland	2011-08-01
+6223717	New Plymouth Airport	New Plymouth Airport	NPL,NZNP	-39.00861	174.17917	S	AIRP	NZ		F9	033			0	29	33	Pacific/Auckland	2011-08-01
+6223977	Patea Dam	Patea Dam		-39.53825	174.56021	S	DAM	NZ		F9	035			0		104	Pacific/Auckland	2011-08-01
+6224335	Bridge to Nowhere	Bridge to Nowhere		-39.26824	174.97021	S	BDG	NZ		G2				0		116	Pacific/Auckland	2006-03-04
+6224567	Wanganui Airport	Wanganui Airport	NZWU,WAG,Wanganui Airport	-39.96255	175.02289	S	AIRP	NZ		F3	037			0		6	Pacific/Auckland	2013-06-10
+6224598	Ohakea Aerodrome	Ohakea Aerodrome	NZOH,OHA	-40.20604	175.38781	S	AIRP	NZ		G2				0	49	46	Pacific/Auckland	2007-01-03
+6224605	Flock House	Flock House		-40.25825	175.29021	S	BLDG	NZ		G2				0		11	Pacific/Auckland	2006-03-04
+6224752	Paraparaumu Airport	Paraparaumu Airport	NZPP,PPQ,Paraparaumu Aerodrome,Paraparaumu Airport	-40.90472	174.98917	S	AIRP	NZ		G2	043			0	6	7	Pacific/Auckland	2011-08-01
+6225201	Kawana Flour Mill	Kawana Flour Mill		-39.58824	175.15021	S	BLDG	NZ		G2				0		166	Pacific/Auckland	2006-03-04
+6225681	Mangahao Power Station	Mangahao Power Station		-40.56826	175.45021	S	BLDG	NZ		G2				0		90	Pacific/Auckland	2006-03-04
+6226408	Cape Palliser Lighthouse	Cape Palliser Lighthouse		-41.60829	175.28019	S	LTHSE	NZ		G2	050			0		65	Pacific/Auckland	2011-08-01
+6226935	Whakapapa Skifield	Whakapapa Skifield		-39.24824	175.55021	S	RSRT	NZ		G2				0		1823	Pacific/Auckland	2006-03-04
+6227741	Massey University	Massey University		-40.37825	175.62021	S	SCH	NZ		G2				0		61	Pacific/Auckland	2006-03-04
+6227749	Palmerston North Airport	Palmerston North Airport	NZPM,PMR	-40.32044	175.61671	S	AIRP	NZ		G2				0		42	Pacific/Auckland	2013-01-02
+6228821	Kaitaia Aerodrome	Kaitaia Aerodrome	KAT,NZKT	-35.06818	173.27018	S	AIRP	NZ		E7				0		64	Pacific/Auckland	2006-03-04
+6229631	Stone Store	Stone Store		-35.21789	173.96263	S	BLDG	NZ		E7				0		9	Pacific/Auckland	2011-02-19
+6229861	Kaikohe Aerodrome	Kaikohe Aerodrome	KKO,NZKO	-35.44969	173.81562	S	AIRP	NZ		E7				0		169	Pacific/Auckland	2013-05-17
+6230423	Pompallier House	Pompallier House		-35.25818	174.11018	S	BLDG	NZ		E7				0		-9999	Pacific/Auckland	2006-03-04
+6231259	Whatipu Lodge	Whatipu Lodge		-37.0282	174.50019	S	BLDG	NZ		E7	076			0		177	Pacific/Auckland	2011-08-01
+6231648	Glenbrook Steel Mill	Glenbrook Steel Mill		-37.2082	174.71019	S	BLDG	NZ		E7	076			0		4	Pacific/Auckland	2011-08-01
+6232134	Auckland International Airport	Auckland International Airport	AKL,NZAA	-37.00806	174.79167	S	AIRP	NZ		E7	076			0	7	8	Pacific/Auckland	2014-11-16
+6232137	Upper Harbour Bridge	Upper Harbour Bridge		-36.7782	174.66019	S	BDG	NZ		E7	076			0		18	Pacific/Auckland	2011-08-01
+6232177	Auckland Harbour Bridge	Auckland Harbour Bridge	Garbor-Bridzh,Pont Harbwr Auckland,Ponte del Porto di Auckland,Ponte do Porto de Auckland,ao ke lan hai wan da qiao,jsr mrfa awkland,okeullaendeu habeo beuliji,Гарбор-Брідж,جسر مرفأ أوكلاند,奧克蘭海灣大橋,오클랜드 하버 브리지	-36.8282	174.74019	S	BDG	NZ		E7	076			0		22	Pacific/Auckland	2011-08-01
+6232234	Alexandra Park	Alexandra Park		-36.8882	174.77019	S	RECR	NZ		E7	076			0		77	Pacific/Auckland	2011-08-01
+6233847	Meremere Steam Power Station	Meremere Steam Power Station		-37.30821	175.0702	S	BLDG	NZ		E7				0		10	Pacific/Auckland	2006-03-04
+6234106	Huntly Power Station	Huntly Power Station		-37.53821	175.1402	S	BLDG	NZ		E7				0		13	Pacific/Auckland	2006-03-04
+6235638	Tui Mine	Tui Mine		-37.51821	175.73021	S	MN	NZ		E7				0		388	Pacific/Auckland	2006-03-04
+6235765	Matamata Aerodrome	Matamata Aerodrome	MTA,Matamata Airport,NZMA	-37.72821	175.73021	S	AIRP	NZ		E7				0		51	Pacific/Auckland	2014-04-14
+6236481	Ohaaki Power Station	Ohaaki Power Station		-38.50823	176.30021	S	BLDG	NZ		E7				0		311	Pacific/Auckland	2006-03-04
+6236559	Taupo Airport	Taupo Airport	NZAP,TUO	-38.73823	176.08021	S	AIRP	NZ		E7				0		401	Pacific/Auckland	2006-03-04
+6236688	Tasman Mill	Tasman Mill		-38.06822	176.72021	S	BLDG	NZ		E7				0		31	Pacific/Auckland	2006-03-04
+6237258	Whakatane Airport	Whakatane Airport	NZWK,WHK	-37.91822	176.91022	S	AIRP	NZ		E7				0		11	Pacific/Auckland	2006-03-04
+6240092	Gisborne Airport	Gisborne Airport	GIS,NZGS	-38.66333	177.97833	S	AIRP	NZ		F1	028			0	4	6	Pacific/Auckland	2011-08-01
+6240808	Hamilton International Airport	Hamilton International Airport	HLZ,Hamilton International Airport,NZHN	-37.86544	175.3327	S	AIRP	NZ		G1	017			0		55	Pacific/Auckland	2014-11-02
+6241111	Hood Aerodrome	Hood Aerodrome	MRO,NZMS	-40.96827	175.6202	S	AIRP	NZ		G2	048			0		118	Pacific/Auckland	2011-08-01
+6241222	Rotorua Airport	Rotorua Airport	NZRO,ROT	-38.10917	176.31722	S	AIRP	NZ		E7				0	284	293	Pacific/Auckland	2007-01-03
+6242481	Ngarua Caves	Ngarua Caves		-41.01825	172.90017	S	CAVE	NZ		F5				0		656	Pacific/Auckland	2006-03-04
+6242674	Motueka Aerodrome	Motueka Aerodrome		-41.11826	172.98017	S	AIRP	NZ		F5				0		16	Pacific/Auckland	2006-03-04
+6243975	Omaka Aerodrome	Omaka Aerodrome	NZOM	-41.53828	173.92018	S	AIRP	NZ		F4	053			0		26	Pacific/Auckland	2014-05-19
+6244688	Wellington International Airport	Wellington International Airport	Aeroport international de Wellington,Aeroporto di Wellington,Aeropuerto Internacional de Wellington,Aéroport international de Wellington,Bandar Udara Internasional Wellington,Flughafen Wellington,Furudgoҳi Bajn‌almillalii Vellington,Lapangan Terbang Antarabangsa Wellington,NZWN,Port lotniczy Wellington,San bay quoc te Wellington,Sân bay quốc tế Wellington,Vellington,WLG,Wellington internasjonale lufthavn,Wellingtonin kansainvaelinen lentoasema,Wellingtonin kansainvälinen lentoasema,u~erinton guo ji kong gang,wei ling dun guo ji ji chang,wellingteon gugjegonghang,Веллингтон,Фурудгоҳи Байн‌алмиллалии Веллингтон,فرودگاه بین‌المللی ولینگتون,ウェリントン国際空港,威靈頓國際機場,웰링턴 국제공항	-41.32722	174.80528	S	AIRP	NZ		G2	047			0	12	6	Pacific/Auckland	2011-08-01
+6244809	Massey Memorial	Massey Memorial		-41.28522	174.82595	S	HSTS	NZ		G2	047			0		29	Pacific/Auckland	2011-08-01
+6246614	Hawke's Bay Airport	Hawke's Bay Airport	Aeroport de la baie de Hawke,Aéroport de la baie de Hawke,Hawke's Bay Airport,NPE,NZNR,Napier Airport,Napier Hastings Airport Heliport,frwdgah hawks by,فرودگاه هاوکس بی	-39.46635	176.86778	S	AIRP	NZ		F2	031			0		1	Pacific/Auckland	2014-01-06
+6246638	Eastern Institute of Technology	Eastern Institute of Technology		-39.53824	176.82021	S	BLDG	NZ		F2	030			0		66	Pacific/Auckland	2011-08-01
+6246750	Bridge Pa	Bridge Pa		-39.64824	176.75021	S	HSTS	NZ		F2	030			0		25	Pacific/Auckland	2011-08-01
+6247374	Mohaka Viaduct	Mohaka Viaduct		-39.06823	177.12022	S	BDG	NZ		F2	029			0		103	Pacific/Auckland	2011-08-01
+6248948	Lincoln University	Lincoln University		-43.63833	172.45013	S	SCH	NZ		E9	062			0		19	Pacific/Auckland	2011-08-01
+6249208	Claris Aerodrome	Claris Aerodrome	GBZ,Great Barrier Aerodome,NZGB	-36.24188	175.4702	S	AIRP	NZ		E7	076			0		8	Pacific/Auckland	2011-08-01
+6249443	Martha Gold Mine	Martha Gold Mine		-37.38544	175.84258	S	MN	NZ		E7				0		5	Pacific/Auckland	2010-12-20
+6249755	Wanaka Airport	Wanaka Airport	NZWF,WKA,Wanaka Aerodrome,Wanaka Airport	-44.71836	169.24008	S	AIRP	NZ		F7	070			0		353	Pacific/Auckland	2011-08-01
+6250512	Clyde Dam	Clyde Dam		-45.18001	169.30438	S	DAM	NZ		F7	069			0		170	Pacific/Auckland	2014-10-09
+6250682	Waiorau Snow Farm	Waiorau Snow Farm		-44.87836	169.08008	S	RSRT	NZ		F7	070			0		1490	Pacific/Auckland	2011-08-01
+6251413	Wairakei Geothermal Power Station	Wairakei Geothermal Power Station		-38.61823	176.10021	S	BLDG	NZ		E7				0		404	Pacific/Auckland	2006-03-04
+6251482	Wairoa Aerodrome	Wairoa Aerodrome	WIR	-39.01221	177.40427	S	AIRP	NZ		F1				0		13	Pacific/Auckland	2011-04-10
+6251491	Roundhill Ski Area	Roundhill Ski Area		-43.81833	170.65009	S	RSRT	NZ		E9	065			0		1305	Pacific/Auckland	2011-08-01
+6299982	Chatham Island	Chatham Island	CHT,NZCI	-43.81	-176.45722	S	AIRP	NZ		10				0	13	8	Pacific/Chatham	2013-08-08
+6299986	Hokitika Aerodrome	Hokitika Aerodrome	HKK,NZHK	-42.71361	170.98528	S	AIRP	NZ		G3	057			0	44	41	Pacific/Auckland	2011-08-01
+6299988	Kaikoura Aerodrome	Kaikoura Aerodrome	KBZ,NZKI	-42.41667	173.7	S	AIRP	NZ		E9	054			0	101	72	Pacific/Auckland	2013-05-13
+6452626	Alexandra	Alexandra	ALR,NZLX	-45.21083	169.37038	S	AIRP	NZ		F7	069			0	229	233	Pacific/Auckland	2011-08-01
+6457350	Westport Airport	Westport Airport	Aeroport de Westport,Aéroport de Westport,NZWS,WSZ,Westport Airport	-41.73683	171.57941	S	AIRP	NZ		G3	055			0	4	6	Pacific/Auckland	2013-11-28
+6488884	Langham Hotel, Auckland	Langham Hotel, Auckland		-36.8579	174.7633	S	HTL	NZ		E7	076			0		84	Pacific/Auckland	2011-08-01
+6526490	Comfort Hotel Carlton Mill	COMFORT HOTEL CARLTON MILL		-43.5333	172.6333	S	HTL	NZ		E9	060			0		14	Pacific/Auckland	2011-08-01
+6607265	Roxburgh Dam	Roxburgh Dam		-45.47598	169.3229	S	DAM	NZ		F7	069			0		108	Pacific/Auckland	2011-08-01
+7284791	Hampton Downs Motorsport Park	Hampton Downs Motorsport Park		-37.35508	175.07898	S	RECR	NZ		G1	013			0		25	Pacific/Auckland	2016-06-22
+7288144	University of Canterbury	University of Canterbury	Universidad de Canterbury,Universidade de Canterbury,Universitat de Canterbury,Universite de Canterbury,Universitet Kenterberi,Université de Canterbury,danshgah kantrbwry,kaenteobeli daehaggyo,kan te bo lei da xue,kantaberi da xue,Университет Кентербери,جامعة كانتربري,دانشگاه کانتربوری,カンタベリー大学,坎特伯雷大学,캔터베리 대학교	-43.52333	172.58194	S	SCH	NZ		E9	060			0		24	Pacific/Auckland	2011-08-01
+7302863	ChristChurch Cathedral	ChristChurch Cathedral	Catedral de Christchurch,Cathedrale anglicane de Christchurch,Cathédrale anglicane de Christchurch,Christ Church Cathedral,Christchurchin tuomiokirkko,Kafedral'nyj sobor Krajstchercha,ji du cheng zuo tang,keulaiseuteucheochi daeseongdang,kuraisutochachi da sheng tang,qtdrlt qryystzrz,Кафедральный собор Крайстчерча,קתדרלת קרייסטצרץ,کلیسای جامع کرایست چرچ,クライストチャーチ大聖堂,基督城座堂,크라이스트처치 대성당	-43.53093	172.637	S	CH	NZ		E9	060			0		12	Pacific/Auckland	2011-08-01
+7302864	Christchurch Botanic Gardens	Christchurch Botanic Gardens		-43.53	172.62	S	GDN	NZ		E9	060			0		15	Pacific/Auckland	2011-08-01
+7303361	Christchurch Arts Centre	Christchurch Arts Centre	keulaiseuteucheochi ateu senteo,クライストチャーチ・アートセンター,크라이스트처치 아트 센터	-43.53148	172.62823	S	BLDG	NZ		E9	060			0		13	Pacific/Auckland	2011-08-01
+7521344	Thames School of Mines	Thames School of Mines		-37.1349	175.53765	S	SCH	NZ		G1	011			0		8	Pacific/Auckland	2016-06-22
+7534797	Woodbourne Airport	Woodbourne Airport	BHE,NZWB	-41.51833	173.87027	S	AIRP	NZ		F4	053			0		34	Pacific/Auckland	2011-08-01
+7536097	Kerikeri Airport	Kerikeri Airport	KKE,NZKK	-35.26278	173.91194	S	AIRP	NZ		F6	001			0		154	Pacific/Auckland	2011-08-01
+7668383	Coromandel Aerodrome	Coromandel Aerodrome	Aerodrome de Coromandel,Aérodrôme de Coromandel,CMV,Coromandel Aerodrome,NZCX	-36.79109	175.50835	S	AIRP	NZ		G1	011			0		5	Pacific/Auckland	2013-12-01
+7668384	Dargaville Aerodrome	Dargaville Aerodrome	DGR,NZDA	-35.9397	173.894	S	AIRP	NZ		F6	003			0		5	Pacific/Auckland	2011-08-01
+7668385	Greymouth Airport	Greymouth Airport	Aeroport de Greymouth,Aéroport de Greymouth,GMN,Greymouth Airport,NZGM	-42.4625	171.19004	S	AIRP	NZ		G3	056			0		4	Pacific/Auckland	2014-11-02
+7668386	Milford Sound Airport	Milford Sound Airport	MFN,NZMF	-44.67528	167.92684	S	AIRP	NZ		F8	073			0		436	Pacific/Auckland	2016-03-27
+7668995	Mission House	Mission House		-35.21842	173.96274	S	HSTS	NZ		F6	001			0		11	Pacific/Auckland	2011-08-01
+7669042	Mount Smart Stadium	Mount Smart Stadium		-36.91833	174.8125	S	STDM	NZ		E7	076			0		26	Pacific/Auckland	2011-08-01
+7669047	Sylvia Park	Sylvia Park		-36.91531	174.84142	S	MALL	NZ		E7	076			0		13	Pacific/Auckland	2011-08-01
+7730139	Ardmore Airport	Ardmore Airport	AMZ,Ardmore Airport (New Zealand),NZAR	-37.0297	174.97301	S	AIRP	NZ		E7	076			0		37	Pacific/Auckland	2014-04-08
+7730140	Glentanner Airport	Glentanner Airport	Aeroport de Glentanner,Aéroport de Glentanner,GTN,Glentanner Airport,NZGT	-43.91357	170.12866	S	AIRP	NZ		E9	065			0		547	Pacific/Auckland	2014-04-12
+7730727	Ashburton Aerodrome	Ashburton Aerodrome	ASG,NZAS	-43.9033	171.797	S	AIRP	NZ		E9	063			0		90	Pacific/Auckland	2011-08-01
+7730730	Picton Aerodrome	Picton Aerodrome	NZPN,PCN	-41.3461	173.95599	S	AIRP	NZ		F4	053			0		26	Pacific/Auckland	2011-08-01
+7730732	Ryans Creek Aerodrome	Ryans Creek Aerodrome	NZRC,SZS	-46.8997	168.101	S	AIRP	NZ		F8	073			0		83	Pacific/Auckland	2016-06-22
+7730733	Thames Aerodrome	Thames Aerodrome	NZTH,TMZ	-37.1567	175.55	S	AIRP	NZ		G1	011			0		6	Pacific/Auckland	2013-05-17
+7730734	Takaka Airport	Takaka Airport	KTF,NZTK	-40.8133	172.77499	S	AIRP	NZ		TAS	051			0		29	Pacific/Auckland	2013-05-17
+7731702	North Harbour Stadium	North Harbour Stadium	Estadio North Harbour,North Harbour-stadion,Stadion Nort Kharbor,Stadion North Harbour,bei gang wan ti yu chang,Стадион Норт Харбор,ملعب الميناء الشمالي,ノース・ハーバー・スタジアム,北港灣體育場	-36.72694	174.70167	S	STDM	NZ		E7	076			0		35	Pacific/Auckland	2011-08-01
+7733346	Auckland Zoo	Auckland Zoo	Oklendskij zoopark,Zoo dAuckland,Zoologico de Auckland,Zoológico de Auckland,Оклендский зоопарк,สวนสัตว์โอคแลนด์	-36.86289	174.71911	S	ZOO	NZ		E7	076			0		16	Pacific/Auckland	2011-08-01
+7733349	Wellington Botanic Garden	Wellington Botanic Garden		-41.28256	174.76761	S	GDN	NZ		G2	047			0		101	Pacific/Auckland	2011-08-01
+8224041	Te Whare Runanga	Te Whare Runanga		-35.26511	174.08171	S	HSTS	NZ		F6	001			0		32	Pacific/Auckland	2012-03-07
+8469210	Long Bay College	Long Bay College		-36.69034	174.74077	S	SCH	NZ		E7	076			0		59	Pacific/Auckland	2013-03-05
+8469219	Rangitoto College	Rangitoto College		-36.73828	174.73628	S	SCHC	NZ		E7	076			0		92	Pacific/Auckland	2013-03-05
+8469224	North Shore Hospital	North Shore Hospital		-36.78227	174.75815	S	HSP	NZ		E7	076			0		23	Pacific/Auckland	2013-03-05
+8504557	Fox Glacier Airport	Fox Glacier Airport	FGL,Fox Glacier Airport	-43.46187	170.01924	S	AIRQ	NZ		G3	057			0		170	Pacific/Auckland	2013-03-19
+8504708	Fox Glacier Heliport	Fox Glacier Heliport	FGL,Fox Glacier Heliport	-43.46111	170.01763	S	AIRH	NZ		G3	057			0		163	Pacific/Auckland	2013-03-19
+8532017	West Auckland Airport	West Auckland Airport	NZPI	-36.65245	174.43294	S	AIRF	NZ		E7	076			0		4	Pacific/Auckland	2013-05-27
+9409630	Auckland Art Gallery	Auckland Art Gallery		-36.85111	174.76632	S	MUS	NZ		E7	076			0		50	Pacific/Auckland	2014-08-29
+9538413	Government House	Government House		-36.87468	174.76806	S	FCL	NZ		E7	076			0		116	Pacific/Auckland	2014-09-12
+9694403	Haast Aerodrome	Haast Aerodrome	NHZT	-43.86653	169.04114	S	AIRF	NZ		G3	057			0		9	Pacific/Auckland	2014-10-10
+10114320	Victoria University of Wellington	Victoria University of Wellington	Universidad Victoria en Wellington,Universidade Victoria de Wellington,Universitat Victoria de Wellington,Universitat Victòria de Wellington,Universite Victoria de Wellington,Universitet korolevy Viktorii,Université Victoria de Wellington,Uniwersytet Wiktorii,Vellinqton Viktoriya Universiteti,Victoria UEniversitesi,Victoria University,Victoria Üniversitesi,danshgah wyktwrya dr wlyngtwn,hui ling dun wei duo li ya da xue,vu~ikutoria da xueu~erinton,wellingteon bigtolia daehaggyo,Университет королевы Виктории,جامعة فيكتوريا,دانشگاه ویکتوریا در ولینگتون,ヴィクトリア大学ウェリントン,惠灵顿维多利亚大学,웰링턴 빅토리아 대학교	-41.29037	174.76837	S	UNIV	NZ		G2	047			0		111	Pacific/Auckland	2015-02-24
+10236001	Museum Art Hotel	Museum Art Hotel		-41.29164	174.78264	S	HTL	NZ		G2	047			0		8	Pacific/Auckland	2015-04-27

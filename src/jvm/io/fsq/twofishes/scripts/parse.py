@@ -79,6 +79,8 @@ if options.geonamesonly:
 if options.mongo:
   jvm_args.append('-Dmongodb.server=' + options.mongo)
 
+jvm_args.append('-Xmx4G')
+
 if options.reload_data and not options.yes_i_am_sure:
   if raw_input('Are you suuuuuure you want to drop your mongo data? Type "yes" to continue: ') != 'yes':
     print "Bailing."
@@ -106,5 +108,3 @@ if not options.dry_run:
     if os.path.exists("dist/twofishes/latest"):
       os.unlink("dist/twofishes/latest")
     os.symlink(os.path.abspath(basepath), "dist/twofishes/latest")
-
-
