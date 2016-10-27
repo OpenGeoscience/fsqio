@@ -14,7 +14,6 @@ if len(args) != 1:
 
 file = args[0]
 
-cmd = './sbt "server/run-main com.foursquare.twofishes.JsonHotfixFileBuilder %s"' % file
-
+cmd = './pants run "src/jvm/io/fsq/twofishes/server:build-hotfix-file" --jvm-run-jvm-program-args=%s' % file
 print(cmd)
 os.system(cmd)

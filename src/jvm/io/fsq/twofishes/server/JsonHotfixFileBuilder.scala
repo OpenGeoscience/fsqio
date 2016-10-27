@@ -11,6 +11,12 @@ object JsonHotfixFileBuilder {
   // build individual objects here and run build-hotfix-file.py to produce json file
   // DO NOT push commits with changes to this list back to twofishes
 /* example: adding UES name to Upper East Side
+  val edits: List[GeocodeServingFeatureEdit] = List(
+    GeocodeServingFeatureEdit.newBuilder
+      .editType(EditType.Modify)
+      .longId(72057594044543258L)
+      .geojsonGeometry("{\\"type\\": \\"MultiPolygon\\", \\"coordinates\\": [[[[-71.6925, 42.855985999999994], [-71.70128400000002, 42.862779], [-71.694744, 42.863409], [-71.6925, 42.855985999999994]]]]}")
+      .result(),
     GeocodeServingFeatureEdit.newBuilder
       .editType(EditType.Modify)
       .longId(72057594044543258L)
@@ -26,6 +32,7 @@ object JsonHotfixFileBuilder {
         .result()
       ))
       .result()
+  )
 */
 
 
