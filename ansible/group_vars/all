@@ -35,7 +35,7 @@ app_code_dir: /home/{{ deploy_user }}
 twofishes_root: "{{app_code_dir}}/{{app_name}}/"
 twofishes_dir: src/jvm/io/fsq/twofishes
 app_code_data_dir: "{{ twofishes_root }}/{{ twofishes_dir }}/data/"
-app_code_latest_data: "{{ app_code_data_dir }}"
+app_code_latest_data: "{{ app_code_data_dir }}/gumbo"
 
 data_index_file: twofish_data_20161029.zip
 data_index_url: https://s3.amazonaws.com/epidemico-twofishes/{{ data_index_file }}
