@@ -15,8 +15,8 @@ ansible-galaxy install -r requirements.txt
 
 ### Role Variables
 
-* `app_name` - GeoNode project name (default: `geonode`)
-* `github_user` - GitHub username that owns the project (default: `GeoNode`)
+* `app_name` -  Project name (default: `fsqio`)
+* `github_user` - GitHub username that owns the project (default: `OpenGeoScience`)
 * `code_repository` - URL to the Code Repository (default: `https://github.com/{{ github_user }}/{{ app_name }}.git`)
 * `twofishes_root` - directory of the fsqio git repo
 * `twofishes_dir` - directory of the twofishes java source code
