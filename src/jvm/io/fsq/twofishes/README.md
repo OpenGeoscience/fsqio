@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/foursquare/twofishes.svg?branch=master)](https://travis-ci.org/foursquare/twofishes)
 
-A coarse, splitting geocoder and reverse geocoder in scala -- Prebuilt indexes and binaries available at [twofishes.net](http://twofishes.net/). Discussion at [google groups](https://groups.google.com/forum/?fromgroups#!forum/twofishes).
+A coarse, splitting geocoder and reverse geocoder in scala -- Prebuilt indexes available at [twofishes.net](http://twofishes.net/). Discussion at [google groups](https://groups.google.com/forum/?fromgroups#!forum/twofishes).
 
 What is a Geocoder?
 ===================
@@ -53,7 +53,7 @@ Requirements
 
 First time setup
 ================
-*   clone the fsqio repo: `git clone https://github.com/foursquare/fsqio.git`
+*   clone the fsqio repo: `git clone https://github.com/OpenGeoscience/fsqio.git`
 *   If you want to download country: ./src/jvm/io/fsq/twofishes/scripts/download-country.sh [ISO 3166 country code] (For example US, GB, etc)
 *   If you want to download world: ./src/jvm/io/fsq/twofishes/scripts/download-world.sh
 
@@ -84,11 +84,11 @@ Docker
 Hotfixes
 ========
 <a name="hotfixes"></a>
-Hotfixes are expressed as fine-grained edits on top of features in the index. Features can be quickly added, removed or modified on a live server without requiring a full index rebuild and redeploy. Most fields on a [GeocodeServingFeature](https://github.com/foursquare/fsqio/blob/master/src/thrift/io/fsq/twofishes/geocoder.thrift#L225) and fields on its nested structs can be edited via a [GeocodeServingFeatureEdit](https://github.com/foursquare/fsqio/blob/master/src/thrift/io/fsq/twofishes/feature_edits.thrift#L35) object.
+Hotfixes are expressed as fine-grained edits on top of features in the index. Features can be quickly added, removed or modified on a live server without requiring a full index rebuild and redeploy. Most fields on a [GeocodeServingFeature](https://github.com/foursquare/fsqio/blob/master/src/thrift/io/fsq/twofishes/geocoder.thrift#L225) and fields on its nested structs can be edited via a [GeocodeServingFeatureEdit](https://github.com/OpenGeoscience/fsqio/blob/master/src/thrift/io/fsq/twofishes/feature_edits.thrift#L35) object.
 
 To enable hotfix support, the server can be pointed to a hotfix directory at startup via the --hotfix\_basepath param. Any .json files found in this directory will be deserialized from JSON to Thrift.
 
-There is only basic tooling to build these JSON hotfix files at present. In [JsonHotfixFileBuilder.scala](https://github.com/foursquare/fsqio/blob/master/src/jvm/io/fsq/twofishes/server/JsonHotfixFileBuilder.scala), use `GeocodeServingFeatureEdit.newBuilder` to build up individual hotfixes in code. Then run src/jvm/io/fsq/twofishes/scripts/build-hotfix-file.py specifying an output file. I will provide a better way shortly.
+There is only basic tooling to build these JSON hotfix files at present. In [JsonHotfixFileBuilder.scala](https://github.com/OpenGeoscience/fsqio/blob/master/src/jvm/io/fsq/twofishes/server/JsonHotfixFileBuilder.scala), use `GeocodeServingFeatureEdit.newBuilder` to build up individual hotfixes in code. Then run src/jvm/io/fsq/twofishes/scripts/build-hotfix-file.py specifying an output file. I will provide a better way shortly.
 
 The server can reload hotfixes on-demand via the /refreshStore endpoint. There is no authentication on this endpoint (or any other private endpoints), so it is disabled by default. Use the --enable\_private\_endpoints param to enable at your own risk, only if your servers are not publicly accessible. When enabled, calling this endpoint on an individual server will cause it to re-scan the hotfix_basepath directory. Use the helper script src/jvm/io/fsq/twofishes/scripts/refresh-store.py.
 
