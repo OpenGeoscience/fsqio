@@ -47,3 +47,5 @@ environ.sh
 log/*
 scripts/upkeep/current
 target/
+ansible/.vagrant
+ansible/roles/*
